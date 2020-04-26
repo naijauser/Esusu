@@ -1,0 +1,12 @@
+.row{
+    margin: 10px 0 0 5px;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.profile-error{
+	font-size: 14px !important;
+	color: red !important;
+}
